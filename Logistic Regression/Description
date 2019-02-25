@@ -1,0 +1,5 @@
+A predictive model is built using logistic regression procedure on the home loan dataset
+The dataset has missing values which were fixed by ranking and summarising the data and 
+finding the best possible values to replace missing data,
+categorical values are converted to numeric values before 
+applying the logistic regression
